@@ -1,0 +1,93 @@
+
+2023-10-07 14:47:40,541 : INFO : Test_Application : test_applications : 12 : inter in home page 
+2023-10-07 14:47:44,791 : INFO : Test_Application : test_applications : 15 : drop down upvibhag  
+2023-10-07 14:47:46,941 : INFO : Test_Application : test_applications : 18 : drop down talluka 
+2023-10-07 14:47:49,108 : INFO : Test_Application : test_applications : 21 : drop down gaon name 
+2023-10-07 14:47:51,249 : INFO : Test_Application : test_applications : 24 : drop down Do you have residence  of this village 
+2023-10-07 14:47:53,333 : INFO : Test_Application : test_applications : 27 : upload candidate photo 
+2023-10-07 14:47:55,606 : INFO : Test_Application : test_applications : 30 : enter candidate full name 
+2023-10-07 14:47:55,982 : INFO : Test_Application : test_applications : 33 : entered candidate full address 
+2023-10-07 14:47:56,193 : INFO : Test_Application : test_applications : 36 : entered candidate mobile number 
+2023-10-07 14:47:56,415 : INFO : Test_Application : test_applications : 39 : entered mail id 
+2023-10-07 14:47:56,760 : INFO : Test_Application : test_applications : 42 : entered DOB of candidate 
+2023-10-07 14:47:56,895 : INFO : Test_Application : test_applications : 45 : selected gender 
+2023-10-07 14:47:57,123 : INFO : Test_Application : test_applications : 47 : selected marital status 
+2023-10-07 14:47:57,382 : INFO : Test_Application : test_applications : 49 : entered number of chield 
+2023-10-07 14:47:57,562 : INFO : Test_Application : test_applications : 51 : entered cast 
+2023-10-07 14:47:57,748 : INFO : Test_Application : test_applications : 53 : taken a screenshots of above informations 
+2023-10-07 14:47:59,893 : INFO : Test_Application : test_applications : 61 : entered all of information of class 10 
+2023-10-07 14:48:00,994 : INFO : Test_Application : test_applications : 69 : entered all the information's of class 12 
+2023-10-07 14:48:02,278 : INFO : Test_Application : test_applications : 78 : entered all the information of Graduation 
+2023-10-07 14:48:05,435 : INFO : Test_Application : test_applications : 82 : entered drop down cast  certificate yes or no 
+2023-10-07 14:48:05,627 : INFO : Test_Application : test_applications : 84 : entered cast certificate number 
+2023-10-07 14:48:05,835 : INFO : Test_Application : test_applications : 86 : entered cast certificate date 
+2023-10-07 14:48:06,048 : INFO : Test_Application : test_applications : 88 : handle fitness certificate  
+2023-10-07 14:48:06,226 : INFO : Test_Application : test_applications : 90 : handle non creamy layer drop down 
+2023-10-07 14:48:06,295 : INFO : Test_Application : test_applications : 93 : upload cast certificate pdf file with given formate 
+2023-10-07 14:48:08,371 : INFO : Test_Application : test_applications : 96 : upload non creamy layer certificate PDF File 
+2023-10-07 14:48:10,425 : INFO : Test_Application : test_applications : 99 : upload fitness certificate  
+2023-10-07 14:48:10,480 : INFO : Test_Application : test_applications : 101 : upload 10 th certificate  
+2023-10-07 14:48:12,536 : INFO : Test_Application : test_applications : 104 : upload residential certificate  
+2023-10-07 14:48:14,648 : INFO : Test_Application : test_applications : 107 : clicked Declaration button 
+2023-10-07 14:48:14,725 : INFO : Test_Application : test_applications : 109 : upload sing JPG file 
+2023-10-07 14:48:17,224 : INFO : Test_Application : test_applications : 112 : clicked pay and submit button 
+2023-10-07 14:48:22,312 : INFO : Test_Application : test_applications : 115 : clicked pop up submit button 
+2023-10-07 14:48:30,644 : INFO : Test_Application : test_applications : 119 : card payment options selected  
+2023-10-07 14:48:33,137 : INFO : Test_Application : test_applications : 125 : card number entered  
+2023-10-07 14:48:33,375 : INFO : Test_Application : test_applications : 127 : card holder name entered  
+2023-10-07 14:48:33,624 : INFO : Test_Application : test_applications : 129 : entered valid upto 
+2023-10-07 14:48:33,821 : INFO : Test_Application : test_applications : 131 : entered CVV 
+2023-10-07 14:48:34,058 : INFO : Test_Application : test_applications : 133 : take a screenshots of cards details 
+2023-10-07 14:48:34,181 : INFO : Test_Application : test_applications : 135 : clicked proceed button 
+2023-10-07 14:48:43,338 : INFO : Test_Application : test_applications : 138 : take a screenshots of  loading page 
+2023-10-07 14:52:32,634 : INFO : Test_Application : test_applications : 12 : inter in home page 
+2023-10-07 14:54:24,550 : INFO : Test_Application : test_applications : 12 : inter in home page 
+2023-10-07 20:03:52,226 : INFO : Test_application : test_application : 14 : NEW inter in home page  
+2023-10-07 20:03:57,726 : INFO : Test_application : test_application : 16 : ENTER APPLY POLICE PATIL POST 
+2023-10-07 20:03:59,938 : INFO : Test_application : test_application : 19 : drop down upvibhag   
+2023-10-07 20:04:01,097 : INFO : Test_application : test_application : 22 : drop down talluka  
+2023-10-07 20:04:02,232 : INFO : Test_application : test_application : 25 : drop down gaon name  
+2023-10-07 20:04:03,428 : INFO : Test_application : test_application : 28 : drop down Do you have residence  of this village  
+2023-10-07 20:04:04,682 : INFO : Test_application : test_application : 31 : upload candidate photo  
+2023-10-07 20:07:34,278 : INFO : Test_application : test_application : 13 : NEW inter in home page  
+2023-10-07 20:07:36,968 : INFO : Test_application : test_application : 15 : ENTER APPLY POLICE PATIL POST 
+2023-10-07 20:07:39,148 : INFO : Test_application : test_application : 18 : drop down upvibhag   
+2023-10-07 20:07:40,293 : INFO : Test_application : test_application : 21 : drop down talluka  
+2023-10-07 20:07:41,456 : INFO : Test_application : test_application : 24 : drop down gaon name  
+2023-10-07 20:07:42,640 : INFO : Test_application : test_application : 27 : drop down Do you have residence  of this village  
+2023-10-07 20:07:43,718 : INFO : Test_application : test_application : 30 : upload candidate photo  
+2023-10-07 20:07:44,987 : INFO : Test_application : test_application : 33 : enter candidate full name  
+2023-10-07 20:07:45,275 : INFO : Test_application : test_application : 35 : entered candidate full address  
+2023-10-07 20:07:45,468 : INFO : Test_application : test_application : 37 : entered candidate mobile number  
+2023-10-07 20:07:45,741 : INFO : Test_application : test_application : 39 : entered mail id  
+2023-10-07 20:07:46,120 : INFO : Test_application : test_application : 41 : entered DOB of candidate  
+2023-10-07 20:07:46,371 : INFO : Test_application : test_application : 43 : TAKE A SCREEN SHOTS OF CANDIDATE DETAILS 
+2023-10-07 20:07:46,550 : INFO : Test_application : test_application : 45 : selected gender  
+2023-10-07 20:07:47,832 : INFO : Test_application : test_application : 48 : selected marital status  
+2023-10-07 20:07:49,149 : INFO : Test_application : test_application : 51 : entered number of chield  
+2023-10-07 20:07:49,406 : INFO : Test_application : test_application : 53 : entered cast  
+2023-10-07 20:07:51,164 : INFO : Test_application : test_application : 60 : entered all of information of class 10  
+2023-10-07 20:07:52,696 : INFO : Test_application : test_application : 67 : entered all the information's of class 12  
+2023-10-07 20:07:54,114 : INFO : Test_application : test_application : 74 : entered all the information of Graduation  
+2023-10-07 20:07:54,347 : INFO : Test_application : test_application : 76 : TAKE A SCREEN SHOTS OF CANDIDATE QUALIFICATIONS 
+2023-10-07 20:07:55,581 : INFO : Test_application : test_application : 79 : entered drop down cast  certificate yes or no  
+2023-10-07 20:07:56,740 : INFO : Test_application : test_application : 82 : entered cast certificate number  
+2023-10-07 20:07:57,079 : INFO : Test_application : test_application : 84 : entered cast certificate date  
+2023-10-07 20:07:57,257 : INFO : Test_application : test_application : 86 : handle fitness certificate   
+2023-10-07 20:07:58,435 : INFO : Test_application : test_application : 89 : handle non creamy layer drop down  
+2023-10-07 20:07:59,500 : INFO : Test_application : test_application : 93 : upload cast certificate pdf file with given formate  
+2023-10-07 20:08:00,555 : INFO : Test_application : test_application : 96 : upload non creamy layer certificate PDF File  
+2023-10-07 20:08:01,604 : INFO : Test_application : test_application : 99 : upload fitness certificate   
+2023-10-07 20:08:02,666 : INFO : Test_application : test_application : 102 : pload 10 th certificate   
+2023-10-07 20:08:03,715 : INFO : Test_application : test_application : 105 : upload residential certificate   
+2023-10-07 20:08:04,814 : INFO : Test_application : test_application : 108 : click a declarations 
+2023-10-07 20:08:04,878 : INFO : Test_application : test_application : 111 : upload sing JPG file  
+2023-10-07 20:08:06,034 : INFO : Test_application : test_application : 114 : clicked pay and submit button  
+2023-10-07 20:08:08,114 : INFO : Test_application : test_application : 117 : clicked pop up submit button  
+2023-10-07 20:08:13,243 : INFO : Test_application : test_application : 121 : select cards Brand 
+2023-10-07 20:08:13,556 : INFO : Test_application : test_application : 125 : card number entered   
+2023-10-07 20:08:14,727 : INFO : Test_application : test_application : 128 : card holder name entered   
+2023-10-07 20:08:14,901 : INFO : Test_application : test_application : 130 : entered valid upto  
+2023-10-07 20:08:15,059 : INFO : Test_application : test_application : 132 : entered CVV  
+2023-10-07 20:08:15,266 : INFO : Test_application : test_application : 134 : take a screen shots of  cards details  
+2023-10-07 20:08:16,388 : INFO : Test_application : test_application : 137 : clicked proceed button  

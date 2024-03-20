@@ -1,0 +1,41 @@
+[32mINFO    [0m Test_Application:test_application_page.py:12 inter in home page
+[32mINFO    [0m Test_Application:test_application_page.py:15 drop down upvibhag 
+[32mINFO    [0m Test_Application:test_application_page.py:18 drop down talluka
+[32mINFO    [0m Test_Application:test_application_page.py:21 drop down gaon name
+[32mINFO    [0m Test_Application:test_application_page.py:24 drop down Do you have residence  of this village
+[32mINFO    [0m Test_Application:test_application_page.py:27 upload candidate photo
+[32mINFO    [0m Test_Application:test_application_page.py:30 enter candidate full name
+[32mINFO    [0m Test_Application:test_application_page.py:33 entered candidate full address
+[32mINFO    [0m Test_Application:test_application_page.py:36 entered candidate mobile number
+[32mINFO    [0m Test_Application:test_application_page.py:39 entered mail id
+[32mINFO    [0m Test_Application:test_application_page.py:42 entered DOB of candidate
+[32mINFO    [0m Test_Application:test_application_page.py:45 selected gender
+[32mINFO    [0m Test_Application:test_application_page.py:47 selected marital status
+[32mINFO    [0m Test_Application:test_application_page.py:49 entered number of chield
+[32mINFO    [0m Test_Application:test_application_page.py:51 entered cast
+[32mINFO    [0m Test_Application:test_application_page.py:53 taken a screenshots of above informations
+[32mINFO    [0m Test_Application:test_application_page.py:61 entered all of information of class 10
+[32mINFO    [0m Test_Application:test_application_page.py:69 entered all the information's of class 12
+[32mINFO    [0m Test_Application:test_application_page.py:78 entered all the information of Graduation
+[32mINFO    [0m Test_Application:test_application_page.py:82 entered drop down cast  certificate yes or no
+[32mINFO    [0m Test_Application:test_application_page.py:84 entered cast certificate number
+[32mINFO    [0m Test_Application:test_application_page.py:86 entered cast certificate date
+[32mINFO    [0m Test_Application:test_application_page.py:88 handle fitness certificate 
+[32mINFO    [0m Test_Application:test_application_page.py:90 handle non creamy layer drop down
+[32mINFO    [0m Test_Application:test_application_page.py:93 upload cast certificate pdf file with given formate
+[32mINFO    [0m Test_Application:test_application_page.py:96 upload non creamy layer certificate PDF File
+[32mINFO    [0m Test_Application:test_application_page.py:99 upload fitness certificate 
+[32mINFO    [0m Test_Application:test_application_page.py:101 upload 10 th certificate 
+[32mINFO    [0m Test_Application:test_application_page.py:104 upload residential certificate 
+[32mINFO    [0m Test_Application:test_application_page.py:107 clicked Declaration button
+[32mINFO    [0m Test_Application:test_application_page.py:109 upload sing JPG file
+[32mINFO    [0m Test_Application:test_application_page.py:112 clicked pay and submit button
+[32mINFO    [0m Test_Application:test_application_page.py:115 clicked pop up submit button
+[32mINFO    [0m Test_Application:test_application_page.py:119 card payment options selected 
+[32mINFO    [0m Test_Application:test_application_page.py:125 card number entered 
+[32mINFO    [0m Test_Application:test_application_page.py:127 card holder name entered 
+[32mINFO    [0m Test_Application:test_application_page.py:129 entered valid upto
+[32mINFO    [0m Test_Application:test_application_page.py:131 entered CVV
+[32mINFO    [0m Test_Application:test_application_page.py:133 take a screenshots of cards details
+[32mINFO    [0m Test_Application:test_application_page.py:135 clicked proceed button
+[32mINFO    [0m Test_Application:test_application_page.py:138 take a screenshots of  loading page

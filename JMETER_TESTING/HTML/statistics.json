@@ -1,0 +1,50 @@
+{
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 1000,
+    "errorCount" : 24,
+    "errorPct" : 2.4,
+    "meanResTime" : 22058.794999999995,
+    "medianResTime" : 5260.5,
+    "minResTime" : 2842.0,
+    "maxResTime" : 123423.0,
+    "pct1ResTime" : 85863.59999999999,
+    "pct2ResTime" : 110913.34999999999,
+    "pct3ResTime" : 122874.18000000001,
+    "throughput" : 7.148371600949304,
+    "receivedKBytesPerSec" : 303.89375151902897,
+    "sentKBytesPerSec" : 3.549724966402654
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 24,
+    "errorPct" : 2.4,
+    "meanResTime" : 22058.794999999995,
+    "medianResTime" : 5260.5,
+    "minResTime" : 2842.0,
+    "maxResTime" : 123423.0,
+    "pct1ResTime" : 85863.59999999999,
+    "pct2ResTime" : 110913.34999999999,
+    "pct3ResTime" : 122874.18000000001,
+    "throughput" : 7.158093656497401,
+    "receivedKBytesPerSec" : 304.3070585066785,
+    "sentKBytesPerSec" : 3.554552726517874
+  },
+  "https://nashik.ppbharti.in/Police_Patil/Home/Index" : {
+    "transaction" : "https://nashik.ppbharti.in/Police_Patil/Home/Index",
+    "sampleCount" : 1000,
+    "errorCount" : 24,
+    "errorPct" : 2.4,
+    "meanResTime" : 22058.794999999995,
+    "medianResTime" : 5260.5,
+    "minResTime" : 2842.0,
+    "maxResTime" : 123423.0,
+    "pct1ResTime" : 85863.59999999999,
+    "pct2ResTime" : 110913.34999999999,
+    "pct3ResTime" : 122874.18000000001,
+    "throughput" : 7.158093656497401,
+    "receivedKBytesPerSec" : 304.3070585066785,
+    "sentKBytesPerSec" : 3.554552726517874
+  }
+}

@@ -1,0 +1,1 @@
+[32mINFO    [0m Test_Application:test_application_page.py:12 inter in home page
